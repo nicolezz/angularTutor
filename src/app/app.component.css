@@ -2,13 +2,13 @@
   background-color: #5bd75b;
   width: 1450px;
   height: 700px;
+  display: flex;
+  justify-content: center;
 }
 
 .box1 {
-  display: flex;
-  position: absolute;
+  position: relative;
   top: 30%;
-  left: 32%;
   width: 500px;
   height: 350px;
   border: darkgray;
